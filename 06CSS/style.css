@@ -1,0 +1,15 @@
+h1{
+font-family:  sans-serif;
+font-size: 14px;
+
+
+-webkit-print-color-adjust: exact;
+}
+h2{
+    font-family:  fantasy;
+font-size: 50px;
+
+
+-webkit-print-color-adjust: red;
+
+}
