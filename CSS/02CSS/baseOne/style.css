@@ -1,0 +1,75 @@
+.wrap1 div,.wrap2 div {
+    width: 142px;
+    height: 193px;
+    background-image: url(cards.png);
+    margin-right: 10px;
+    float: left;
+}
+
+
+/* First set */
+
+
+.card1 {
+    background-position: -140px -595px;
+}
+
+.card2 {
+    background-position: 0px -1790px;   
+}
+
+.card3 {
+    background-position: -285px -1390px;   
+}
+
+.card4 {
+    background-position: -140px -2185px;   
+}
+
+.card5 {
+    background-position: -285px -2385px;   
+}
+
+.clear {
+    clear: both;
+}
+
+.space { 
+    margin-top: 50px;
+}
+
+/* Second Set */
+
+
+.top {
+    margin: 30px 0px 0px -100px
+}
+
+.card7 {
+    background-position: -292px -1995px;
+}
+
+.card8 {
+    background-position: -432px -595px;
+}
+.card9 {
+    background-position: -8px -2389px;
+}
+.card10 {
+    background-position: -430px -1995px;
+}
+.card11 {
+    background-position: -147px -203px;
+}
+.card12 {
+    background-position: -0px -1200px;
+}
+.card13 {
+    background-position: -5px -1995px;
+}
+.card14 {
+    background-position: -145px -1795px;
+}
+.card15 {
+    background-position: -433px -800px;
+}
